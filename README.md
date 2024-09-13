@@ -14,6 +14,7 @@
 ### Where to Find Me 📫
 - **Email:** [chaturvedishivam598@gmail.com](mailto:chaturvedishivam598@gmail.com) ✉️
 - **LinkedIn:** [Shivam Chaturvedi](https://www.linkedin.com/in/shivam-chaturvedi-77629321a) 💼
+- **Portfolio:** [Shivam Chaturvedi](https://shivamchaturvedi.vercel.app) 💼
 
 ### Interests & Goals 🚀
 - **Discuss Technology:** Let's talk tech! 🗣️
